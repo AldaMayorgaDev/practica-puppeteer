@@ -28,5 +28,4 @@ Instalar proyecto con npm
 ```
 
 
-
-  Aldahir  
+  
